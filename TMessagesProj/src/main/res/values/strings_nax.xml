@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AutoCheckUpdateSwitch">Update Channel</string>' 
+    <string name="AutoUpdateChannel">update</string>
     <string name="NagramX" translatable="false">Nagram X</string>
     <string name="XChannel">Nagram X Channel</string>
     <string name="EnableSaveDeletedMessages">Save Deleted Messages</string>
@@ -224,7 +226,7 @@
     <string name="CopySticker">Copy Sticker</string>
     <string name="CheckUpdate">Check for Updates</string>
     <string name="AutoCheckUpdateOFF">OFF</string>
-    <string name="AutoCheckUpdateSwitch">Update Channel</string>
+   
     <string name="AutoCheckUpdateRelease">Release</string>
     <string name="AutoCheckUpdateBeta">Beta</string>
     <string name="YourVersionIsLatestNax">Your version is up to date.</string>
